@@ -1,0 +1,39 @@
+com.pedrosiccha.data.test.data-core-runtime-2.2.0-0 C:\Users\pedro\.gradle\caches\transforms-4\141cfc5d90e7f6735dbbea44b9a9752f\transformed\core-runtime-2.2.0\res
+com.pedrosiccha.data.test.data-recyclerview-1.1.0-1 C:\Users\pedro\.gradle\caches\transforms-4\15d0c984425e3223bd4ff75cd7818b8c\transformed\recyclerview-1.1.0\res
+com.pedrosiccha.data.test.data-savedstate-1.2.1-2 C:\Users\pedro\.gradle\caches\transforms-4\1ac4ab3f7cb3fbf212b5fac6155026ea\transformed\savedstate-1.2.1\res
+com.pedrosiccha.data.test.data-core-ktx-1.13.1-3 C:\Users\pedro\.gradle\caches\transforms-4\1d733bd7d5fb9b4a05c43aba0de52de1\transformed\core-ktx-1.13.1\res
+com.pedrosiccha.data.test.data-drawerlayout-1.1.1-4 C:\Users\pedro\.gradle\caches\transforms-4\235d3ad494ac964caf10fae77163a90f\transformed\drawerlayout-1.1.1\res
+com.pedrosiccha.data.test.data-tracing-1.1.0-5 C:\Users\pedro\.gradle\caches\transforms-4\2ac3573d43a5bfbf11328c02bfd44e91\transformed\tracing-1.1.0\res
+com.pedrosiccha.data.test.data-profileinstaller-1.3.1-6 C:\Users\pedro\.gradle\caches\transforms-4\3fba088ea52570e07174847016645a25\transformed\profileinstaller-1.3.1\res
+com.pedrosiccha.data.test.data-activity-1.8.0-7 C:\Users\pedro\.gradle\caches\transforms-4\410d8a6f43b0b7a9662151ef190d9371\transformed\activity-1.8.0\res
+com.pedrosiccha.data.test.data-sqlite-2.4.0-8 C:\Users\pedro\.gradle\caches\transforms-4\4bc674d6d7e622983d289b0b01ec0cc6\transformed\sqlite-2.4.0\res
+com.pedrosiccha.data.test.data-emoji2-1.3.0-9 C:\Users\pedro\.gradle\caches\transforms-4\6ecada14a761dc7ba0183204aa4d0a5f\transformed\emoji2-1.3.0\res
+com.pedrosiccha.data.test.data-core-1.13.1-10 C:\Users\pedro\.gradle\caches\transforms-4\706b6e94a6baaa475db85daa1752efae\transformed\core-1.13.1\res
+com.pedrosiccha.data.test.data-transition-1.5.0-11 C:\Users\pedro\.gradle\caches\transforms-4\70b121c4901fbe673a9294c51dbe813d\transformed\transition-1.5.0\res
+com.pedrosiccha.data.test.data-coordinatorlayout-1.1.0-12 C:\Users\pedro\.gradle\caches\transforms-4\74c27f695d35e4f84b372f91e19ef1d5\transformed\coordinatorlayout-1.1.0\res
+com.pedrosiccha.data.test.data-core-1.6.1-13 C:\Users\pedro\.gradle\caches\transforms-4\7593cbe32b46a15770d1cbaea6f946c0\transformed\core-1.6.1\res
+com.pedrosiccha.data.test.data-material-1.12.0-14 C:\Users\pedro\.gradle\caches\transforms-4\767532858bf44dc6000e53b75328d1d7\transformed\material-1.12.0\res
+com.pedrosiccha.data.test.data-annotation-experimental-1.4.0-15 C:\Users\pedro\.gradle\caches\transforms-4\794e901ecae732be34012e7e223690fc\transformed\annotation-experimental-1.4.0\res
+com.pedrosiccha.data.test.data-lifecycle-livedata-2.6.2-16 C:\Users\pedro\.gradle\caches\transforms-4\8bb97f1bf967798f08f0fd628d275415\transformed\lifecycle-livedata-2.6.2\res
+com.pedrosiccha.data.test.data-constraintlayout-2.0.1-17 C:\Users\pedro\.gradle\caches\transforms-4\913f61836b4462c15f7b1c22a8ce7d61\transformed\constraintlayout-2.0.1\res
+com.pedrosiccha.data.test.data-fragment-1.5.4-18 C:\Users\pedro\.gradle\caches\transforms-4\9272c0dab929943f65a66630cc3029c6\transformed\fragment-1.5.4\res
+com.pedrosiccha.data.test.data-cardview-1.0.0-19 C:\Users\pedro\.gradle\caches\transforms-4\9db27f1e69cb05c9ed67c92f6af6ba44\transformed\cardview-1.0.0\res
+com.pedrosiccha.data.test.data-lifecycle-viewmodel-2.6.2-20 C:\Users\pedro\.gradle\caches\transforms-4\a4c5ce27c43b95b81dcfd2f8174be4f9\transformed\lifecycle-viewmodel-2.6.2\res
+com.pedrosiccha.data.test.data-startup-runtime-1.1.1-21 C:\Users\pedro\.gradle\caches\transforms-4\a6129a10e445f2ab3a48c6ebec6e95d9\transformed\startup-runtime-1.1.1\res
+com.pedrosiccha.data.test.data-lifecycle-process-2.6.2-22 C:\Users\pedro\.gradle\caches\transforms-4\ac700f7faa20bb8fab63e0fb2e527d0a\transformed\lifecycle-process-2.6.2\res
+com.pedrosiccha.data.test.data-viewpager2-1.0.0-23 C:\Users\pedro\.gradle\caches\transforms-4\ae30ab3f38ad859f558cbbb907b44f29\transformed\viewpager2-1.0.0\res
+com.pedrosiccha.data.test.data-lifecycle-viewmodel-savedstate-2.6.2-24 C:\Users\pedro\.gradle\caches\transforms-4\b2c5150cf805167087afd9e6d4981d69\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.pedrosiccha.data.test.data-room-ktx-2.6.1-25 C:\Users\pedro\.gradle\caches\transforms-4\d4f48f5896b624f82a1ec2da897c30bd\transformed\room-ktx-2.6.1\res
+com.pedrosiccha.data.test.data-emoji2-views-helper-1.3.0-26 C:\Users\pedro\.gradle\caches\transforms-4\db8a21af2dc09fbce417e26ac695f0f4\transformed\emoji2-views-helper-1.3.0\res
+com.pedrosiccha.data.test.data-appcompat-resources-1.7.0-27 C:\Users\pedro\.gradle\caches\transforms-4\dd93659e2a75d5c5bb38144a7bae4e55\transformed\appcompat-resources-1.7.0\res
+com.pedrosiccha.data.test.data-sqlite-framework-2.4.0-28 C:\Users\pedro\.gradle\caches\transforms-4\de2043167daa1284c3280cc17295fbf5\transformed\sqlite-framework-2.4.0\res
+com.pedrosiccha.data.test.data-lifecycle-runtime-2.6.2-29 C:\Users\pedro\.gradle\caches\transforms-4\e4a5419b1a274cedb41e6e02cbe70f7a\transformed\lifecycle-runtime-2.6.2\res
+com.pedrosiccha.data.test.data-room-runtime-2.6.1-30 C:\Users\pedro\.gradle\caches\transforms-4\e602d40affbf8e9711682abb561d8e03\transformed\room-runtime-2.6.1\res
+com.pedrosiccha.data.test.data-lifecycle-livedata-core-2.6.2-31 C:\Users\pedro\.gradle\caches\transforms-4\ec751e2ac7b4e6d97751c006e935826f\transformed\lifecycle-livedata-core-2.6.2\res
+com.pedrosiccha.data.test.data-appcompat-1.7.0-32 C:\Users\pedro\.gradle\caches\transforms-4\eeafecf32e7b8aa4e4ddb397238cc5a1\transformed\appcompat-1.7.0\res
+com.pedrosiccha.data.test.data-debug-33 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\core\build\intermediates\packaged_res\debug\packageDebugResources
+com.pedrosiccha.data.test.data-androidTest-34 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\data\build\generated\res\resValues\androidTest\debug
+com.pedrosiccha.data.test.data-mergeDebugAndroidTestResources-35 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\data\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.pedrosiccha.data.test.data-mergeDebugAndroidTestResources-36 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\data\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.pedrosiccha.data.test.data-debugAndroidTest-37 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\data\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.pedrosiccha.data.test.data-debug-38 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\data\build\intermediates\packaged_res\debug\packageDebugResources

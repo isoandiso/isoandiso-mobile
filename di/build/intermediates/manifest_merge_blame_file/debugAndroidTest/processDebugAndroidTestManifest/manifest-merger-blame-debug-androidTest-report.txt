@@ -1,0 +1,36 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pedrosiccha.di.test" >
+4
+5    <uses-sdk
+5-->D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10674980998349271030.xml:5:5-74
+6        android:minSdkVersion="24"
+6-->D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10674980998349271030.xml:5:15-41
+7        android:targetSdkVersion="24" />
+7-->D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10674980998349271030.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10674980998349271030.xml:11:5-15:73
+10        android:name="android.test.InstrumentationTestRunner"
+10-->D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10674980998349271030.xml:11:22-75
+11        android:functionalTest="false"
+11-->D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10674980998349271030.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10674980998349271030.xml:13:22-53
+13        android:label="Tests for com.pedrosiccha.di.test"
+13-->D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10674980998349271030.xml:15:22-71
+14        android:targetPackage="com.pedrosiccha.di.test" />
+14-->D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10674980998349271030.xml:12:22-69
+15
+16    <application
+16-->D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10674980998349271030.xml:7:5-9:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.8.0] C:\Users\pedro\.gradle\caches\transforms-4\fd7c1a177b1e5f45a3df96d9c65419b6\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:extractNativeLibs="false" >
+20        <uses-library android:name="android.test.runner" />
+20-->D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10674980998349271030.xml:8:9-60
+20-->D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10674980998349271030.xml:8:23-57
+21    </application>
+22
+23</manifest>

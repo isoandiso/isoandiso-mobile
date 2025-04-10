@@ -1,0 +1,13 @@
+#Thu Apr 10 03:35:03 PET 2025
+base.0=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\ui\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\ui\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\ui\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\15\\classes.dex
+base.3=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\ui\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes2.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=15/classes.dex
+path.3=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

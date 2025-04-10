@@ -1,0 +1,62 @@
+com.pedrosiccha.ui.test.ui-lifecycle-viewmodel-2.6.2-0 C:\Users\pedro\.gradle\caches\transforms-4\05c86535081ceee6ce035b93ba0ab800\transformed\lifecycle-viewmodel-2.6.2\res
+com.pedrosiccha.ui.test.ui-ui-geometry-release-1 C:\Users\pedro\.gradle\caches\transforms-4\08ebeb929aa4841b57ed919e48b4eb3c\transformed\ui-geometry-release\res
+com.pedrosiccha.ui.test.ui-activity-ktx-1.8.0-2 C:\Users\pedro\.gradle\caches\transforms-4\0f1dc7073600bef51393eef980c6d870\transformed\activity-ktx-1.8.0\res
+com.pedrosiccha.ui.test.ui-cardview-1.0.0-3 C:\Users\pedro\.gradle\caches\transforms-4\11868c916c51fef613ef8b23856c7a2d\transformed\cardview-1.0.0\res
+com.pedrosiccha.ui.test.ui-animation-release-4 C:\Users\pedro\.gradle\caches\transforms-4\1b5ef7580ee0d909c8ef4a2b361ad33c\transformed\animation-release\res
+com.pedrosiccha.ui.test.ui-core-runtime-2.2.0-5 C:\Users\pedro\.gradle\caches\transforms-4\22626df7e04a307f49eccf8423b13a28\transformed\core-runtime-2.2.0\res
+com.pedrosiccha.ui.test.ui-material3-release-6 C:\Users\pedro\.gradle\caches\transforms-4\260095d74791466fb47b8e8a117796f8\transformed\material3-release\res
+com.pedrosiccha.ui.test.ui-lifecycle-process-2.6.2-7 C:\Users\pedro\.gradle\caches\transforms-4\26d38b456fc5f997dc5d9e062c3b1155\transformed\lifecycle-process-2.6.2\res
+com.pedrosiccha.ui.test.ui-emoji2-1.3.0-8 C:\Users\pedro\.gradle\caches\transforms-4\2bc88c2f472d5fb6ea6cbb93cd9f4be1\transformed\emoji2-1.3.0\res
+com.pedrosiccha.ui.test.ui-ui-text-release-9 C:\Users\pedro\.gradle\caches\transforms-4\2d5ccb06e28b56543b986f7a30bae03c\transformed\ui-text-release\res
+com.pedrosiccha.ui.test.ui-fragment-1.5.4-10 C:\Users\pedro\.gradle\caches\transforms-4\31e91ff64f522dbb7148b43e1191250c\transformed\fragment-1.5.4\res
+com.pedrosiccha.ui.test.ui-emoji2-views-helper-1.3.0-11 C:\Users\pedro\.gradle\caches\transforms-4\4394306a4fc53f0526e861b3635b9158\transformed\emoji2-views-helper-1.3.0\res
+com.pedrosiccha.ui.test.ui-ui-test-release-12 C:\Users\pedro\.gradle\caches\transforms-4\456bf760899052b08920a06b3c6197bd\transformed\ui-test-release\res
+com.pedrosiccha.ui.test.ui-lifecycle-runtime-ktx-2.6.2-13 C:\Users\pedro\.gradle\caches\transforms-4\4de261a84964ded0ad38f085bf0c535c\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.pedrosiccha.ui.test.ui-core-1.13.1-14 C:\Users\pedro\.gradle\caches\transforms-4\4eb074ab61d0ae0383b3bde424cee983\transformed\core-1.13.1\res
+com.pedrosiccha.ui.test.ui-customview-poolingcontainer-1.0.0-15 C:\Users\pedro\.gradle\caches\transforms-4\512178f4bf64e7ec3d9129dd248acf4e\transformed\customview-poolingcontainer-1.0.0\res
+com.pedrosiccha.ui.test.ui-lifecycle-viewmodel-ktx-2.6.2-16 C:\Users\pedro\.gradle\caches\transforms-4\5299b87d868e01e38655285a5ce2775b\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.pedrosiccha.ui.test.ui-activity-1.8.0-17 C:\Users\pedro\.gradle\caches\transforms-4\56ba6408d5ff5c6357701976957c3a3e\transformed\activity-1.8.0\res
+com.pedrosiccha.ui.test.ui-material-1.12.0-18 C:\Users\pedro\.gradle\caches\transforms-4\5794a3f6ca0dcb16fee1c8cc842b238f\transformed\material-1.12.0\res
+com.pedrosiccha.ui.test.ui-core-ktx-1.13.1-19 C:\Users\pedro\.gradle\caches\transforms-4\598f5c22d50a70b0f444f60a7773d454\transformed\core-ktx-1.13.1\res
+com.pedrosiccha.ui.test.ui-ui-unit-release-20 C:\Users\pedro\.gradle\caches\transforms-4\5fc2165af6fdf1c6924b70ede8f0339a\transformed\ui-unit-release\res
+com.pedrosiccha.ui.test.ui-appcompat-1.7.0-21 C:\Users\pedro\.gradle\caches\transforms-4\615ff5219da31d9f6139b9db67085c17\transformed\appcompat-1.7.0\res
+com.pedrosiccha.ui.test.ui-material-release-22 C:\Users\pedro\.gradle\caches\transforms-4\63707216bfa34ab43bacc7a534b2f852\transformed\material-release\res
+com.pedrosiccha.ui.test.ui-ui-release-23 C:\Users\pedro\.gradle\caches\transforms-4\6d8a25b452b715d8608bcd0f226c2a17\transformed\ui-release\res
+com.pedrosiccha.ui.test.ui-lifecycle-runtime-2.6.2-24 C:\Users\pedro\.gradle\caches\transforms-4\6f8e6f6807711ea288428e7c152f9142\transformed\lifecycle-runtime-2.6.2\res
+com.pedrosiccha.ui.test.ui-animation-core-release-25 C:\Users\pedro\.gradle\caches\transforms-4\709daf155028ab1e88c315aafd29fb37\transformed\animation-core-release\res
+com.pedrosiccha.ui.test.ui-viewpager2-1.0.0-26 C:\Users\pedro\.gradle\caches\transforms-4\711681f671767f7d9e0b45703203fe27\transformed\viewpager2-1.0.0\res
+com.pedrosiccha.ui.test.ui-foundation-layout-release-27 C:\Users\pedro\.gradle\caches\transforms-4\71b90036ca9f49c26f6f864aef361a32\transformed\foundation-layout-release\res
+com.pedrosiccha.ui.test.ui-runtime-release-28 C:\Users\pedro\.gradle\caches\transforms-4\7abf1c42ade8dfe3860c17e7cc61b8ce\transformed\runtime-release\res
+com.pedrosiccha.ui.test.ui-ui-util-release-29 C:\Users\pedro\.gradle\caches\transforms-4\7bd2ea4c165d5728055b251b29e272ab\transformed\ui-util-release\res
+com.pedrosiccha.ui.test.ui-savedstate-1.2.1-30 C:\Users\pedro\.gradle\caches\transforms-4\8945cd774ced35fc33af4443bce7533f\transformed\savedstate-1.2.1\res
+com.pedrosiccha.ui.test.ui-annotation-experimental-1.4.0-31 C:\Users\pedro\.gradle\caches\transforms-4\902a333511cf1ceae307786415b9b3e2\transformed\annotation-experimental-1.4.0\res
+com.pedrosiccha.ui.test.ui-lifecycle-livedata-2.6.2-32 C:\Users\pedro\.gradle\caches\transforms-4\907f0dc3f51e9d366b1eb50048ffca19\transformed\lifecycle-livedata-2.6.2\res
+com.pedrosiccha.ui.test.ui-ui-test-manifest-1.6.6-33 C:\Users\pedro\.gradle\caches\transforms-4\909d1964726ea62c4251d102147d9cfc\transformed\ui-test-manifest-1.6.6\res
+com.pedrosiccha.ui.test.ui-appcompat-resources-1.7.0-34 C:\Users\pedro\.gradle\caches\transforms-4\934df28a638479493aa914dc0c6979c0\transformed\appcompat-resources-1.7.0\res
+com.pedrosiccha.ui.test.ui-coordinatorlayout-1.1.0-35 C:\Users\pedro\.gradle\caches\transforms-4\a618babd440b3fa708fb2a4415751e88\transformed\coordinatorlayout-1.1.0\res
+com.pedrosiccha.ui.test.ui-lifecycle-viewmodel-savedstate-2.6.2-36 C:\Users\pedro\.gradle\caches\transforms-4\b3406a5aeaf3e3005a55f28cfa65eca9\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.pedrosiccha.ui.test.ui-core-1.6.1-37 C:\Users\pedro\.gradle\caches\transforms-4\b4d4a230eff22eaf0aa684b0ad56230c\transformed\core-1.6.1\res
+com.pedrosiccha.ui.test.ui-ui-graphics-release-38 C:\Users\pedro\.gradle\caches\transforms-4\b7099316c73c304842a4600340e8a083\transformed\ui-graphics-release\res
+com.pedrosiccha.ui.test.ui-foundation-release-39 C:\Users\pedro\.gradle\caches\transforms-4\bf20ef2f711d846c635c7c4dc88b054a\transformed\foundation-release\res
+com.pedrosiccha.ui.test.ui-profileinstaller-1.3.1-40 C:\Users\pedro\.gradle\caches\transforms-4\c1b3c3948667c2af157e7728d93bf43d\transformed\profileinstaller-1.3.1\res
+com.pedrosiccha.ui.test.ui-lifecycle-livedata-core-2.6.2-41 C:\Users\pedro\.gradle\caches\transforms-4\c83f82957f75c2beb714a6ff429d49dd\transformed\lifecycle-livedata-core-2.6.2\res
+com.pedrosiccha.ui.test.ui-transition-1.5.0-42 C:\Users\pedro\.gradle\caches\transforms-4\c8f292c1ad997f57d5756234da29fdd8\transformed\transition-1.5.0\res
+com.pedrosiccha.ui.test.ui-ui-test-junit4-release-43 C:\Users\pedro\.gradle\caches\transforms-4\ccb873b28b83f2a3e2537606e72583b2\transformed\ui-test-junit4-release\res
+com.pedrosiccha.ui.test.ui-ui-tooling-preview-release-44 C:\Users\pedro\.gradle\caches\transforms-4\d7161f7081568581f57eec900b4e5c2f\transformed\ui-tooling-preview-release\res
+com.pedrosiccha.ui.test.ui-ui-tooling-data-release-45 C:\Users\pedro\.gradle\caches\transforms-4\da3bc9cd8a16210420ae598bf47130e1\transformed\ui-tooling-data-release\res
+com.pedrosiccha.ui.test.ui-material-ripple-release-46 C:\Users\pedro\.gradle\caches\transforms-4\dfd0007f1d651389d82dcf6d13031d2f\transformed\material-ripple-release\res
+com.pedrosiccha.ui.test.ui-constraintlayout-2.0.1-47 C:\Users\pedro\.gradle\caches\transforms-4\e15f2fe1fc9b37b2ecb60bf498b05d65\transformed\constraintlayout-2.0.1\res
+com.pedrosiccha.ui.test.ui-ui-tooling-release-48 C:\Users\pedro\.gradle\caches\transforms-4\e2185831f6a79485149372eba57104d5\transformed\ui-tooling-release\res
+com.pedrosiccha.ui.test.ui-drawerlayout-1.1.1-49 C:\Users\pedro\.gradle\caches\transforms-4\e2a19b4f4dc53c2638bb394054b2bcef\transformed\drawerlayout-1.1.1\res
+com.pedrosiccha.ui.test.ui-runtime-saveable-release-50 C:\Users\pedro\.gradle\caches\transforms-4\e36bb398a056d7030d12e30df336d127\transformed\runtime-saveable-release\res
+com.pedrosiccha.ui.test.ui-activity-compose-1.8.0-51 C:\Users\pedro\.gradle\caches\transforms-4\e3c7e0362e48087088503d16fecce889\transformed\activity-compose-1.8.0\res
+com.pedrosiccha.ui.test.ui-startup-runtime-1.1.1-52 C:\Users\pedro\.gradle\caches\transforms-4\e67d05d758429e4d4730815fb0927ec4\transformed\startup-runtime-1.1.1\res
+com.pedrosiccha.ui.test.ui-tracing-1.1.0-53 C:\Users\pedro\.gradle\caches\transforms-4\ea4ac2dade812e518343d9a752a159e0\transformed\tracing-1.1.0\res
+com.pedrosiccha.ui.test.ui-recyclerview-1.1.0-54 C:\Users\pedro\.gradle\caches\transforms-4\fbddffe1762f31fae48112cd24433b7f\transformed\recyclerview-1.1.0\res
+com.pedrosiccha.ui.test.ui-savedstate-ktx-1.2.1-55 C:\Users\pedro\.gradle\caches\transforms-4\fc4d41e7b5f7843b0fe49a2cbf628d4a\transformed\savedstate-ktx-1.2.1\res
+com.pedrosiccha.ui.test.ui-material-icons-core-release-56 C:\Users\pedro\.gradle\caches\transforms-4\ff8bb1d2b80730a2d52689f544843026\transformed\material-icons-core-release\res
+com.pedrosiccha.ui.test.ui-androidTest-57 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\ui\build\generated\res\resValues\androidTest\debug
+com.pedrosiccha.ui.test.ui-mergeDebugAndroidTestResources-58 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\ui\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.pedrosiccha.ui.test.ui-mergeDebugAndroidTestResources-59 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\ui\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.pedrosiccha.ui.test.ui-debugAndroidTest-60 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\ui\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.pedrosiccha.ui.test.ui-debug-61 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\ui\build\intermediates\packaged_res\debug\packageDebugResources

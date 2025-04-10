@@ -1,0 +1,14 @@
+com.pedrosiccha.di.test.di-fragment-1.5.1-0 C:\Users\pedro\.gradle\caches\transforms-4\2c699d805566e3551b6732b76056d956\transformed\fragment-1.5.1\res
+com.pedrosiccha.di.test.di-lifecycle-runtime-2.5.1-1 C:\Users\pedro\.gradle\caches\transforms-4\4a46c3b3bb7f8fb2266c271e5161e9b2\transformed\lifecycle-runtime-2.5.1\res
+com.pedrosiccha.di.test.di-annotation-experimental-1.3.1-2 C:\Users\pedro\.gradle\caches\transforms-4\69c62bd47251091cce1311ddde486869\transformed\annotation-experimental-1.3.1\res
+com.pedrosiccha.di.test.di-lifecycle-viewmodel-savedstate-2.5.1-3 C:\Users\pedro\.gradle\caches\transforms-4\a06d14ac8a0d7c8edcc794858984e102\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.pedrosiccha.di.test.di-lifecycle-livedata-core-2.5.1-4 C:\Users\pedro\.gradle\caches\transforms-4\ae5839d1cc8f6c1fffd03a933504b129\transformed\lifecycle-livedata-core-2.5.1\res
+com.pedrosiccha.di.test.di-activity-1.5.1-5 C:\Users\pedro\.gradle\caches\transforms-4\c4c7fa54f0aa7838d067e9ce5ff83307\transformed\activity-1.5.1\res
+com.pedrosiccha.di.test.di-lifecycle-viewmodel-2.5.1-6 C:\Users\pedro\.gradle\caches\transforms-4\db4a3351ac637787299cc73e0e2be121\transformed\lifecycle-viewmodel-2.5.1\res
+com.pedrosiccha.di.test.di-savedstate-1.2.0-7 C:\Users\pedro\.gradle\caches\transforms-4\f7beda732da193b07b1b88ecec4882d8\transformed\savedstate-1.2.0\res
+com.pedrosiccha.di.test.di-core-1.8.0-8 C:\Users\pedro\.gradle\caches\transforms-4\fd7c1a177b1e5f45a3df96d9c65419b6\transformed\core-1.8.0\res
+com.pedrosiccha.di.test.di-androidTest-9 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\generated\res\resValues\androidTest\debug
+com.pedrosiccha.di.test.di-mergeDebugAndroidTestResources-10 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.pedrosiccha.di.test.di-mergeDebugAndroidTestResources-11 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.pedrosiccha.di.test.di-debugAndroidTest-12 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.pedrosiccha.di.test.di-debug-13 D:\Proyectos 2025\IsoAndiSo\isoandiso-mobile\di\build\intermediates\packaged_res\debug\packageDebugResources

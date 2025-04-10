@@ -1,8 +1,6 @@
 plugins {
-    alias(libs.plugins.android.library)        // Plugin para módulos tipo librería Android
-    alias(libs.plugins.kotlin.android)         // Soporte para Kotlin en Android
-    alias(libs.plugins.dagger.hilt)
-    id("org.jetbrains.kotlin.kapt")
+    alias(libs.plugins.android.library)
+    alias(libs.plugins.kotlin.android)
 }
 
 android {
@@ -45,11 +43,4 @@ dependencies {
 
     implementation(libs.kotlinx.coroutines.core)
     implementation(libs.kotlinx.coroutines.android)
-
-    implementation(libs.dagger.hilt.android)
-    kapt(libs.dagger.hilt.compiler)
-
-    implementation(libs.androidx.room.runtime)
-    kapt(libs.androidx.room.compiler)
-    implementation(libs.androidx.room.ktx)
 }
