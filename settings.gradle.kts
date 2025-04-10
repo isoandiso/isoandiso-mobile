@@ -23,3 +23,4 @@ rootProject.name = "isoandiso-mobile"
 include(":app")
 include(":core")
 include(":data")
+include(":domain")

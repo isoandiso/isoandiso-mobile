@@ -15,6 +15,7 @@ hilt = "2.50"
 room = "2.6.1"
 retrofit = "2.9.0"
 okhttp = "4.12.0"
+jetbrainsKotlinJvm = "1.9.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -54,6 +55,7 @@ kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 android-library = { id = "com.android.library", version.ref = "agp" }
 
 dagger-hilt = { id = "com.google.dagger.hilt.android", version = "2.50" }
+jetbrains-kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "jetbrainsKotlinJvm" }
 
 [bundles]
 hilt = ["dagger-hilt-android", "dagger-hilt-compiler"]

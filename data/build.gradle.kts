@@ -56,5 +56,5 @@ dependencies {
 
     // Relación entre módulos
     implementation(project(":core"))
-//    implementation(project(":domain"))
+    implementation(project(":domain"))
 }
