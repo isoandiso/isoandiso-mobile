@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.pedrosiccha.ui.test.ui-mergeDebugAndroidTestResources-58:/values-v28/values-v28.xml",
+            "outputFile": "com.pedrosiccha.ui.test.ui-mergeDebugAndroidTestResources-56:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\b4d4a230eff22eaf0aa684b0ad56230c\\transformed\\core-1.6.1\\res\\values-v28\\values.xml",
-                    "from": {
-                        "startLines": "4,13",
-                        "startColumns": "0,0",
-                        "startOffsets": "146,625",
-                        "endLines": "12,21",
-                        "endColumns": "8,8",
-                        "endOffsets": "624,1101"
-                    },
-                    "to": {
-                        "startLines": "24,33",
-                        "startColumns": "4,4",
-                        "startOffsets": "1675,2158",
-                        "endLines": "32,41",
-                        "endColumns": "8,8",
-                        "endOffsets": "2153,2634"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\615ff5219da31d9f6139b9db67085c17\\transformed\\appcompat-1.7.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\54f0628daeea4eccaef0f01fa8ccdcc1\\transformed\\appcompat-1.7.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -42,7 +23,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\5794a3f6ca0dcb16fee1c8cc842b238f\\transformed\\material-1.12.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\c209bff48997553270794a98c5da4c81\\transformed\\core-1.6.1\\res\\values-v28\\values.xml",
+                    "from": {
+                        "startLines": "4,13",
+                        "startColumns": "0,0",
+                        "startOffsets": "146,625",
+                        "endLines": "12,21",
+                        "endColumns": "8,8",
+                        "endOffsets": "624,1101"
+                    },
+                    "to": {
+                        "startLines": "24,33",
+                        "startColumns": "4,4",
+                        "startOffsets": "1675,2158",
+                        "endLines": "32,41",
+                        "endColumns": "8,8",
+                        "endOffsets": "2153,2634"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\2295a5cfe5243cee4bfb3b3d7237bdc6\\transformed\\material-1.12.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.pedrosiccha.data.test.data-mergeDebugAndroidTestResources-35:/values-v28/values-v28.xml",
+            "outputFile": "com.pedrosiccha.data.test.data-mergeDebugAndroidTestResources-34:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\eeafecf32e7b8aa4e4ddb397238cc5a1\\transformed\\appcompat-1.7.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\54f0628daeea4eccaef0f01fa8ccdcc1\\transformed\\appcompat-1.7.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -23,26 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\767532858bf44dc6000e53b75328d1d7\\transformed\\material-1.12.0\\res\\values-v28\\values-v28.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,249,344,441,529,617,705,793,880,967,1054,1141",
-                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,17",
-                        "endColumns": "97,95,94,96,87,87,87,87,86,86,86,86,10",
-                        "endOffsets": "148,244,339,436,524,612,700,788,875,962,1049,1136,1423"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,42",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,249,344,441,529,617,705,793,880,967,1054,2639",
-                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,45",
-                        "endColumns": "97,95,94,96,87,87,87,87,86,86,86,86,10",
-                        "endOffsets": "148,244,339,436,524,612,700,788,875,962,1049,1136,2921"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\7593cbe32b46a15770d1cbaea6f946c0\\transformed\\core-1.6.1\\res\\values-v28\\values.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\c209bff48997553270794a98c5da4c81\\transformed\\core-1.6.1\\res\\values-v28\\values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",
@@ -58,6 +39,25 @@
                         "endLines": "32,41",
                         "endColumns": "8,8",
                         "endOffsets": "2153,2634"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\2295a5cfe5243cee4bfb3b3d7237bdc6\\transformed\\material-1.12.0\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,249,344,441,529,617,705,793,880,967,1054,1141",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,17",
+                        "endColumns": "97,95,94,96,87,87,87,87,86,86,86,86,10",
+                        "endOffsets": "148,244,339,436,524,612,700,788,875,962,1049,1136,1423"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,42",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,249,344,441,529,617,705,793,880,967,1054,2639",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,45",
+                        "endColumns": "97,95,94,96,87,87,87,87,86,86,86,86,10",
+                        "endOffsets": "148,244,339,436,524,612,700,788,875,962,1049,1136,2921"
                     }
                 }
             ]

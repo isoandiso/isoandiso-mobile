@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.pedrosiccha.ui.test.ui-mergeDebugAndroidTestResources-58:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "outputFile": "com.pedrosiccha.ui.test.ui-mergeDebugAndroidTestResources-56:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\5794a3f6ca0dcb16fee1c8cc842b238f\\transformed\\material-1.12.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\2295a5cfe5243cee4bfb3b3d7237bdc6\\transformed\\material-1.12.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

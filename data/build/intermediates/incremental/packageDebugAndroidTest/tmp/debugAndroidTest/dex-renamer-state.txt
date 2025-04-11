@@ -1,13 +1,16 @@
-#Thu Apr 10 11:28:06 PET 2025
+#Thu Apr 10 22:05:05 PET 2025
 base.0=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\data\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
-base.1=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\data\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
-base.2=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\data\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\10\\classes.dex
-base.3=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\data\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes2.dex
+base.1=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\data\\build\\intermediates\\dex\\debugAndroidTest\\mergeLibDexDebugAndroidTest\\14\\classes.dex
+base.2=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\data\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.3=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\data\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\10\\classes.dex
+base.4=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\data\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes2.dex
 path.0=classes.dex
-path.1=0/classes.dex
-path.2=10/classes.dex
-path.3=classes2.dex
+path.1=14/classes.dex
+path.2=0/classes.dex
+path.3=10/classes.dex
+path.4=classes2.dex
 renamed.0=classes.dex
 renamed.1=classes2.dex
 renamed.2=classes3.dex
 renamed.3=classes4.dex
+renamed.4=classes5.dex

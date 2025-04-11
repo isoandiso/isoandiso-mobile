@@ -28,3 +28,6 @@ dependencyResolutionManagement {
 rootProject.name = "isoandiso-mobile"
 include(":app")
 include(":core")
+include(":domain")
+include(":data")
+include(":ui")
