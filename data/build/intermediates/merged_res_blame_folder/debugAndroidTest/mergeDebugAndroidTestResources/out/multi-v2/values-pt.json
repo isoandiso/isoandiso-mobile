@@ -4,7 +4,7 @@
             "outputFile": "com.pedrosiccha.data.test.data-mergeDebugAndroidTestResources-34:/values-pt/values-pt.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\54f0628daeea4eccaef0f01fa8ccdcc1\\transformed\\appcompat-1.7.0\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\125615c33212e443277c18fdc4c471c0\\transformed\\appcompat-1.7.0\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\17350a1f53f4342c673470c4ea3c08cd\\transformed\\core-1.13.1\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\ab34e5e889c822c58c5408ff1260f2b2\\transformed\\core-1.13.1\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

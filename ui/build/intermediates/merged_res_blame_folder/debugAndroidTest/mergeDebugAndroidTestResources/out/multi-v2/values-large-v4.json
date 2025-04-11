@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.pedrosiccha.ui.test.ui-mergeDebugAndroidTestResources-56:/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.pedrosiccha.ui.test.ui-mergeDebugAndroidTestResources-63:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\54f0628daeea4eccaef0f01fa8ccdcc1\\transformed\\appcompat-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\125615c33212e443277c18fdc4c471c0\\transformed\\appcompat-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\2295a5cfe5243cee4bfb3b3d7237bdc6\\transformed\\material-1.12.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\de755737eb3c35d49bf86dc65e737253\\transformed\\material-1.12.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

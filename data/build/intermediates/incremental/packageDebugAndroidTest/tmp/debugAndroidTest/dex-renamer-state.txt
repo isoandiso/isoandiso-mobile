@@ -1,4 +1,4 @@
-#Thu Apr 10 22:05:05 PET 2025
+#Fri Apr 11 00:24:13 PET 2025
 base.0=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\data\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
 base.1=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\data\\build\\intermediates\\dex\\debugAndroidTest\\mergeLibDexDebugAndroidTest\\14\\classes.dex
 base.2=D\:\\Proyectos 2025\\IsoAndiSo\\isoandiso-mobile\\data\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex

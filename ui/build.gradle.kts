@@ -69,6 +69,10 @@ dependencies {
     implementation("com.google.dagger:hilt-android:2.48")
     kapt("com.google.dagger:hilt-android-compiler:2.48")
 
+    // Navigation Compose
+    implementation(libs.navigation.compose)
+
     // Proyecto
     implementation(project(":domain"))
+    implementation(project(":splash"))
 }

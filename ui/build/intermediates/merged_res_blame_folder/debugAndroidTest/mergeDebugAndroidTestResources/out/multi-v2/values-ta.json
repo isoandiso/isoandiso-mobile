@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.pedrosiccha.ui.test.ui-mergeDebugAndroidTestResources-56:/values-ta/values-ta.xml",
+            "outputFile": "com.pedrosiccha.ui.test.ui-mergeDebugAndroidTestResources-63:/values-ta/values-ta.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\54f0628daeea4eccaef0f01fa8ccdcc1\\transformed\\appcompat-1.7.0\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\125615c33212e443277c18fdc4c471c0\\transformed\\appcompat-1.7.0\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\2573b9276ed00b8cb3b3a4f6d2ad5487\\transformed\\material3-release\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\8a470928c1f76de5b38f4b6014925013\\transformed\\material3-release\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\17350a1f53f4342c673470c4ea3c08cd\\transformed\\core-1.13.1\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\ab34e5e889c822c58c5408ff1260f2b2\\transformed\\core-1.13.1\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\9ee10777a7cbe130841d59f48cc3ab3a\\transformed\\foundation-release\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\9791c917c24a8bced8b6561d2ef171f3\\transformed\\foundation-release\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -72,7 +72,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\607c0de11b03b93b2f69753063e9e061\\transformed\\ui-release\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\c61ebab9cd297e5599fa0e55fecb58a0\\transformed\\ui-release\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -89,7 +89,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\2295a5cfe5243cee4bfb3b3d7237bdc6\\transformed\\material-1.12.0\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-4\\de755737eb3c35d49bf86dc65e737253\\transformed\\material-1.12.0\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
