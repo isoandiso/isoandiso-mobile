@@ -60,6 +60,7 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation(libs.androidx.ui.tooling)
     implementation(libs.androidx.ui.tooling.preview)
+    implementation(libs.androidx.material.icons.extended)
 
     // Lifecycle / ViewModel
     implementation(libs.androidx.lifecycle.runtime.ktx)
@@ -75,4 +76,5 @@ dependencies {
     // Proyecto
     implementation(project(":domain"))
     implementation(project(":splash"))
+//    implementation(project(":login"))
 }

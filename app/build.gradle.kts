@@ -75,5 +75,10 @@ dependencies {
     // Navigation Compose
     implementation(libs.navigation.compose)
 
+    implementation(project(":core"))
+    implementation(project(":data"))
+    implementation(project(":domain"))
     implementation(project(":ui"))
+    implementation(project(":splash"))
+    implementation(project(":login"))
 }

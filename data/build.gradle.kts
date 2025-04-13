@@ -5,6 +5,10 @@ plugins {
     id("com.google.dagger.hilt.android")
 }
 
+kapt {
+    correctErrorTypes = true
+}
+
 android {
     namespace = "com.pedrosiccha.data"
     compileSdk = 34
@@ -61,6 +65,11 @@ dependencies {
     // Coroutines (por si usas suspend con Room)
     implementation(libs.kotlinx.coroutines.core)
     implementation(libs.kotlinx.coroutines.android)
+
+    implementation(libs.retrofit)
+    implementation(libs.retrofit.gson)
+    implementation(libs.okhttp)
+    implementation("com.squareup.okhttp3:logging-interceptor:4.12.0")
 
     // Proyecto
     implementation(project(":domain"))

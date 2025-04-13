@@ -11,10 +11,10 @@ import androidx.compose.material3.Surface
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.sp
-import com.pedrosiccha.feature.splash.R
 import kotlinx.coroutines.delay
 import androidx.compose.material3.Text
 import androidx.compose.ui.tooling.preview.Preview
+import com.pedrosiccha.feature.splash.R
 
 @Composable
 fun SplashScreen(
@@ -37,7 +37,7 @@ fun SplashScreen(
             verticalArrangement = Arrangement.Center
         ) {
             Image(
-                painter = painterResource(id = R.drawable.img_logo),
+                painter = painterResource(id = R.drawable.img_logo_init),
                 contentDescription = "Logo",
                 modifier = Modifier.size(350.dp)
             )
