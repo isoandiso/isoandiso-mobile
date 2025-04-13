@@ -1,1 +1,2 @@
 com.pedrosiccha.ui
+drawable img_logo

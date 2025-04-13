@@ -6,3 +6,13 @@ plugins {
     id("com.google.dagger.hilt.android") version "2.48" apply false
     alias(libs.plugins.jetbrains.kotlin.jvm) apply false
 }
+
+allprojects {
+    configurations.all {
+        resolutionStrategy {
+            force("org.jetbrains.kotlin:kotlin-stdlib:1.9.0")
+            force("org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.0")
+            force("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.0")
+        }
+    }
+}

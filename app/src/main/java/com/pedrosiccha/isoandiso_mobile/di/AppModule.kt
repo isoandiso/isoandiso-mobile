@@ -1,4 +1,5 @@
 package com.pedrosiccha.isoandiso_mobile.di
+//DI general: red, base de datos, etc.
 
 import dagger.Module
 import dagger.Provides
