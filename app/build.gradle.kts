@@ -13,8 +13,8 @@ android {
         applicationId = "com.pedrosiccha.isoandiso_mobile"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = getVersionCode()
+        versionName = getVersionName()
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -81,4 +81,26 @@ dependencies {
     implementation(project(":ui"))
     implementation(project(":splash"))
     implementation(project(":login"))
+}
+
+// 🔽 Versionamiento dinámico según rama (develop / release/qa)
+fun getVersionCode(): Int {
+    val branch = System.getenv("GITHUB_REF_NAME") ?: "local"
+    return when (branch) {
+        "release/qa" -> System.getenv("GITHUB_RUN_NUMBER")?.toIntOrNull() ?: 1
+        "main" -> System.getenv("GITHUB_RUN_NUMBER")?.toIntOrNull() ?: 100
+        "develop" -> 1000
+        else -> 9999
+    }
+}
+
+fun getVersionName(): String {
+    val shortSha = System.getenv("GITHUB_SHA")?.take(7) ?: "dev"
+    val branch = System.getenv("GITHUB_REF_NAME") ?: "local"
+    if (branch == "local") return "local-dev"
+
+    return when (branch) {
+        "release/qa" -> "1.0.0-qa+$shortSha"
+        else -> "dev-$shortSha"
+    }
 }
