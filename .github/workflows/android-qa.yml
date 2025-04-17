@@ -1,0 +1,81 @@
+name: Android QA (CI/CD)
+
+on:
+  push:
+    branches: ["release/qa"]
+  pull_request:
+    branches: ["release/qa"]
+
+jobs:
+  build:
+    name: Build & Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Configurar JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: 17
+
+      - name: Cache Gradle
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: gradle-${{ runner.os }}-${{ hashFiles('**/*.gradle*', '**/gradle-wrapper.properties') }}
+          restore-keys: |
+            gradle-${{ runner.os }}-
+
+      - name: Dar permisos a Gradle
+        run: chmod +x ./gradlew
+
+      - name: Compilar proyecto
+        run: ./gradlew :app:assembleDebug
+
+      - name: Ejecutar pruebas unitarias
+        run: ./gradlew :app:testDebugUnitTest
+
+      - name: Guardar APK como artefacto
+        uses: actions/upload-artifact@v4
+        with:
+          name: app-debug-apk
+          path: app/build/outputs/apk/debug/app-debug.apk
+
+  deploy:
+    name: Deploy to Firebase App Distribution
+    runs-on: ubuntu-latest
+    needs: build
+    environment: FIREBASE_TOKEN
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Configurar JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: 17
+
+      - name: Instalar Firebase CLI
+        run: npm install -g firebase-tools
+
+      - name: Descargar APK generado
+        uses: actions/download-artifact@v4
+        with:
+          name: app-debug-apk
+          path: ./apk
+
+      - name: Subir APK a Firebase App Distribution
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        run: |
+          firebase appdistribution:distribute ./apk/app-debug.apk \
+            --app 1:57197190782:android:6a0c80efef171bbff4022f \
+            --groups "testers" \
+            --release-notes "Versión distribuida automáticamente desde CI/CD"
